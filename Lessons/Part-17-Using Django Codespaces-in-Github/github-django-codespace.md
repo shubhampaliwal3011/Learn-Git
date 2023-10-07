@@ -1,3 +1,16 @@
+# Table of Contents
+- [Django Codespaces in Github](django-codespaces-in-github)
+  - [Section 1: What are GitHub Codespaces?](#section-1-what-are-github-codespaces)
+  - [Section 2: Prerequisites](#section-2-prerequisites)
+  - [Section 3: Creating a Codespace for Django](#section-3-creating-a-codespace-for-django)
+  - [Section 4: Developing in Django Codespaces](#section-4-developing-in-django-codespaces)
+  - [Section 5: Working Offline](#section-5-working-offline)
+- [Conclusion](#conclusion)
+- [Github Actions in Django Codespaces](#github-actions-in-django-codespaces)
+  - [Continuous Integration (CI)](#continuous-integration-ci)
+  - [Deploy to Staging or Production](#deploy-to-staging-or-production)
+  - [Scheduled Tasks](#scheduled-tasks)
+    
 # Django Codespaces in Github
 
 GitHub Codespaces is a powerful cloud-based development environment that allows developers to code, build, and test applications directly in their browser. It provides an efficient and seamless coding experience by eliminating the need for local development setups. This article will walk you through the process of setting up and using Django Codespaces in GitHub, enabling you to develop Django applications with ease and convenience.
@@ -10,7 +23,8 @@ To use Django Codespaces in GitHub, you'll need the following:
 
 A GitHub account: Ensure you have a GitHub account to access GitHub Codespaces.
 A Django project: Have a Django project repository hosted on GitHub that you want to work on in the cloud.
-Section 3: Creating a Codespace for Django
+
+### Section 3: Creating a Codespace for Django
 Follow these steps to create a Codespace for your Django project:
 
 Step 1: Navigate to your GitHub repository.
