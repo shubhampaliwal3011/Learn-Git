@@ -1,5 +1,5 @@
 # Table of Contents
-- [Django Codespaces in Github](django-codespaces-in-github)
+- [Django Codespaces in Github](#django-codespaces-in-github)
   - [Section 1: What are GitHub Codespaces?](#section-1-what-are-github-codespaces)
   - [Section 2: Prerequisites](#section-2-prerequisites)
   - [Section 3: Creating a Codespace for Django](#section-3-creating-a-codespace-for-django)
